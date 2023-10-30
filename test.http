@@ -1,0 +1,13 @@
+GET http://localhost:8080/flowers/list
+
+###
+POST http://localhost:8080/flowers/add
+Content-Type: application/json
+
+{
+  "id": 1,
+  "sepalLength": 100,
+  "color": "BLUE",
+  "price": 100,
+  "flowerType": "DAHLIA"
+}
