@@ -3,7 +3,7 @@ package ua.edu.ucu.apps.lab8;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.springframework.boot.test.context.SpringBootTest;
 
 import ua.edu.ucu.apps.lab8.flowers.Flower;
 import ua.edu.ucu.apps.lab8.flowers.FlowerColor;
@@ -15,7 +15,7 @@ import ua.edu.ucu.apps.lab8.item_decorators.ItemDecorator;
 import ua.edu.ucu.apps.lab8.item_decorators.PaperDecoraror;
 import ua.edu.ucu.apps.lab8.item_decorators.RibbonDecorator;
 
-@SpringBootTest
+// @SpringBootTest
 class Lab8ApplicationTests {
 
 	@Test
